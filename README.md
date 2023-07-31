@@ -3,17 +3,15 @@
 #### Technical Skills: Python, Machine Learning, Natural Language Processing, PyTorch, Deep Learning
 
 ## Education					       		
-- Masters in Computer Science	| University of Massachusetts Amherst (_Sep 2023 - May 2025*_)	 			        		
+- Masters in Computer Science	| University of Massachusetts Amherst (_Sep 2023 - Present_)	 			        		
 - B.Tech in Mechanical + M.Tech in Data Science | IIT Madras (_June 2016 - June 2021_)
 
 ## Work Experience
 **Data Scientist @ Infoedge India Limited (_Jul 2021 - Jul 2023_)**
-- Helps recruiters identify potential candidates from a large pool of applicants using Natural Language Processing
-- Developed an ensemble of deep learning (1M parameters) and heuristic models (classical ML), trained on more than 50 million users’ job switch data to understand the job transition behavior
+- Helped recruiters identify potential candidates from a large pool of applicants using Natural Language Processing
+- Designed and implemented a sophisticated two-stack architecture (Feature Engineering -> Modelling) and successfully trained on an extensive dataset of over 50 million users' job switch data, gaining valuable insights into job transition behaviors
 - Deployed stateless API in production using Python, and Flask. Serving 25-30 lakhs hits per day (inference time: ~80ms per sample)
-• Project was honored with the prestigious Gold Award at the Infoedge Merit Awards 2022
-
-**Skills:** Applied Machine Learning · Deep Neural Networks (DNN) · Flask · PyTorch · Large-scale Data Analysis
+**Skills:** Python, Applied Machine Learning · Deep Neural Networks (DNN) · Flask · PyTorch · Large-scale Data Analysis
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
